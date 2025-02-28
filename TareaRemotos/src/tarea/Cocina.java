@@ -19,4 +19,24 @@ public class Cocina extends Estancia {
 		
 	}
 
+	public String getNombre() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public String getNumPuertas() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public String getNumVentanas() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public String isTendedero() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }

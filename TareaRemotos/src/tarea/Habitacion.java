@@ -17,4 +17,24 @@ public class Habitacion extends Estancia{
 				
 	}
 
+	public String getNombre() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public String getNumPuertas() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public String getNumVentanas() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public String isBano() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }

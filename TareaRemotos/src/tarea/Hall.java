@@ -14,4 +14,24 @@ public class Hall extends Estancia {
 		// TODO Auto-generated method stub
 		return super.getMetrosCuadrados();
 	}
+
+	public String getNombre() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public String getNumPuertas() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public String getNumVentanas() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public String isBlindada() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }

@@ -20,4 +20,29 @@ public class Salon extends Estancia {
 		return metrosTotales;
 	}
 
+	public String getNombre() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public String getNumPuertas() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public String getNumVentanas() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public String getTomasRed() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public String isTerraza() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
