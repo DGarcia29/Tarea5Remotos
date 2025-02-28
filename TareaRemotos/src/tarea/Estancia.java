@@ -18,4 +18,6 @@ public class Estancia {
 	public double getMetrosCuadrados() {
 		return metrosCuadrados;
 	}
+
+
 }
